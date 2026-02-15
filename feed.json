@@ -9,19 +9,5 @@
         "name": "Junaid"
     },
     "items": [
-        {
-            "id": "https://junaid474.github.io/AI-blog/jh.html",
-            "url": "https://junaid474.github.io/AI-blog/jh.html",
-            "title": "jh",
-            "summary": "jjj",
-            "content_html": "<p>jjj</p>",
-            "author": {
-                "name": "Junaid"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-02-15T11:45:49+05:00",
-            "date_modified": "2026-02-15T11:45:49+05:00"
-        }
     ]
 }
