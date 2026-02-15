@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "AI-blog",
     "description": "",
-    "home_page_url": "https://github.com/Junaid474/AI-blog",
-    "feed_url": "https://github.com/Junaid474/AI-blog/feed.json",
+    "home_page_url": "https://junaid474.github.io/AI-blog",
+    "feed_url": "https://junaid474.github.io/AI-blog/feed.json",
     "user_comment": "",
     "author": {
         "name": "Junaid"
     },
     "items": [
         {
-            "id": "https://github.com/Junaid474/AI-blog/jh.html",
-            "url": "https://github.com/Junaid474/AI-blog/jh.html",
+            "id": "https://junaid474.github.io/AI-blog/jh.html",
+            "url": "https://junaid474.github.io/AI-blog/jh.html",
             "title": "jh",
             "summary": "jjj",
             "content_html": "<p>jjj</p>",
