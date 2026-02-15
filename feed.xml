@@ -3,10 +3,30 @@
     <title>AI-blog</title>
     <link href="https://junaid474.github.io/AI-blog/feed.xml" rel="self" />
     <link href="https://junaid474.github.io/AI-blog" />
-    <updated>1970-01-01T05:00:00+05:00</updated>
+    <updated>2026-02-15T12:54:28+05:00</updated>
     <author>
         <name>Junaid</name>
     </author>
     <id>https://junaid474.github.io/AI-blog</id>
 
+    <entry>
+        <title>jh</title>
+        <author>
+            <name>Junaid</name>
+        </author>
+        <link href="https://junaid474.github.io/AI-blog/jh.html"/>
+        <id>https://junaid474.github.io/AI-blog/jh.html</id>
+
+        <updated>2026-02-15T11:45:49+05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    jjjbb
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>jjjbb</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
